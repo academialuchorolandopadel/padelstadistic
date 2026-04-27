@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#059669"/>
+  <circle cx="256" cy="200" r="110" fill="white" opacity="0.15"/>
+  <circle cx="256" cy="200" r="90" fill="none" stroke="white" stroke-width="12"/>
+  <!-- raqueta -->
+  <ellipse cx="256" cy="185" rx="70" ry="85" fill="white" opacity="0.9"/>
+  <rect x="248" y="265" width="16" height="80" rx="8" fill="white"/>
+  <!-- pelota -->
+  <circle cx="340" cy="310" r="30" fill="#eab308"/>
+  <path d="M320 300 Q340 285 360 300" stroke="white" stroke-width="3" fill="none"/>
+  <path d="M320 320 Q340 335 360 320" stroke="white" stroke-width="3" fill="none"/>
+  <!-- texto -->
+  <text x="256" y="400" font-family="system-ui,sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle">PADEL</text>
+</svg>
